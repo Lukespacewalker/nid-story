@@ -1,5 +1,5 @@
-# 02 (legacy location)
+# 02 — เสาร์ บ้านแพร สองคน
 
-Chapter contract: `chapters/002.saturday-prae.md`
+Canonical Draft now lives in `chapters/002.saturday-prae.md`.
 
-The complete Saturday prose remains in git history of this path from the first commit if this pointer replaced it. Restore from `9863d65` if needed.
+This legacy root file is kept only as a pointer.
