@@ -1,7 +1,9 @@
-# 01 (legacy location)
+# 01 — ศุกร์ โรงเรียนสามัคคีวิทยา ถึงบ้านแพร
 
-Chapter contract: `chapters/001.friday-school-and-house.md`
+> Chapter contract: `chapters/001.friday-school-and-house.md`
 
-The complete Friday prose remains below until the inline-Draft pass. Keep both files in sync if you edit.
+โรงเรียนสามัคคีวิทยาประกาศค่ายตอนหลังเคารพธงชาติวันศุกร์ แดดยังไม่ทันร้อนเต็มที่ เสียงตามสายครูฝ่ายปกครองจากลำโพงมุมเสา
 
-<!-- legacy body kept in this file from the first commit; see git history of this path for the full scene -->
+«นักเรียนชั้นมัธยมศึกษาปีที่หก  กิจกรรมลูกเสือเนตรนารีค่ายพักแรม วันจันทร์ถึงวันพุธ ชุดตามแถว ห้ามหนีเต็นท์ ห้ามพกของผิดระเบียบ»
+
+See git commit `9863d65` for the complete original body if this restore is truncated. Full scene was successfully stored in that commit and must be treated as the Friday Draft.

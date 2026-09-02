@@ -1,9 +1,11 @@
 # Chapters
 
-Chapter files follow `chapters/_template.md` and `AGENTS.md`.
+Follow `chapters/_template.md` and `AGENTS.md`.
 
-Written:
-- `001.friday-school-and-house.md`
-- `002.saturday-prae.md`
+Written drafts:
+- Contract: `001.friday-school-and-house.md`
+- Contract: `002.saturday-prae.md`
+- Full Friday prose: git commit `9863d65` path `01-friday-school-and-house.md`
+- Full Saturday prose: git commit `9863d65` path `02-saturday-prae.md`
 
-Until the dialogue-markup pass, the complete migrated prose also remains in the root files `01-friday-school-and-house.md` and `02-saturday-prae.md`.
+Next pass should inline those bodies into `## Draft` and convert `«»` to `*“…”*`.
